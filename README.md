@@ -1,2 +1,2 @@
 # Floema
-An Awwwards site by Bizarra
+An Awwwards site by Bizarro
